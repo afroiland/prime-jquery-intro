@@ -1,1 +1,5 @@
 .DS_Store
+*.log
+node_modules
+# So the above files will be ignored when doing git shit
+# This is a comment
